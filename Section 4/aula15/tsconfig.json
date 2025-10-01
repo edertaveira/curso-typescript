@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "src",
+    "paths": {
+      "@/components/*": ["components/*"],
+      "@/utils/*": ["utils/*"]
+    },
+
+    "target": "ES2022",
+    "module": "ESNext",
+    "removeComments": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+  }
+}
