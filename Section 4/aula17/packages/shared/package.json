@@ -1,0 +1,8 @@
+{
+  "name": "@aula17/shared",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "main": "index.ts"
+}

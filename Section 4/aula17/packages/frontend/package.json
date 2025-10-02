@@ -1,0 +1,12 @@
+{
+  "name": "@aula17/frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@aula17/shared": "*"
+  }
+}
